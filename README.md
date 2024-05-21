@@ -1,7 +1,7 @@
 # 🙋‍♂️ Hello! Welcome to my Github profile.
 ## My name is Leonardo and my nickname is "leozinlz"!
-- 🔭 Atualmente estou cursando TI para Internet no Senai
-- 🌱 Atualmente estou aprendendo sobre Versionamento e Colaboração
+- 🔭 Atualmente estou cursando TI no Senai
+- 🌱 Atualmente estou aprendendo Front-end
 - 🏡 Atualmente moro em Coruripe/AL
 - 🎮 Jogo Valorant
 - 🏐 Amo volêi & Gatos
